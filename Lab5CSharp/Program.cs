@@ -1,5 +1,3 @@
-
-
 namespace Lab5
 {
     class Tovar
